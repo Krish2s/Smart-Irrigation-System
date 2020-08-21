@@ -18,3 +18,33 @@ This project can be implemented in perennial plant irrigation land and gardening
 2. HC-05 Bluetooth Module(OPTIONAL)
 ![alt tag](bluetooth.jpg)
 
+3. YL-69 soil moisture sensor
+![alt tag](Moisturesensor.jpg)
+
+4. DC Water Pump
+![alt tag](pump.jpg)
+
+# Connections
+1. HC-05 bluetooth module
+Vcc to pin 5V of arduino uno
+
+Ground to pin ground of arduino uno
+
+Rx to pin 1(Tx) of arduino uno
+
+Tx to pin 0(Rx) of arduino uno
+
+2. YL-69 soil moisture sensor
+A0 to analog pin 0 of arduino
+
+GROUND to ground pin of arduino uno
+
+Vcc to pin 5V of arduino uno
+
+3. DC water pump
+Black wire to ground pin of arduino uno
+
+Red wire to pin 13 of arduino uno
+
+# Screenshot of Arduino UNO Serial Monitor
+![alt tag](screenshot1.png)
