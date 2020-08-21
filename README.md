@@ -13,4 +13,13 @@ This project can be implemented in perennial plant irrigation land and gardening
 
 # Hardware components used
 1. Arduino UNO
-![Alt text](C:/Users/Admin/Desktop/SEM_6/arduino.jpg?raw=true "Title")
+![alt tag](arduino.jpg)
+
+2. HC-05 Bluetooth Module(OPTIONAL)
+![alt tag](bluetooth.jpg)
+
+3. YL-69 soil moisture sensor
+![alt tag](Moisture sensor.jpg)
+
+4. DC Water Pump
+![alt tag](DC water pump.jpg)
